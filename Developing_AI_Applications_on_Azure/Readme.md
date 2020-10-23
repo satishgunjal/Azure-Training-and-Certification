@@ -7,4 +7,4 @@
 
 ![Deep_Learning](/Developing_AI_Applications_on_Azure/images/Deep_Learning.PNG)
 
-![Module_1_Introduction_to_Artificial_Intelligence](/Developing_AI_Applications_on_Azure/images/Module_1_Introduction_to_Artificial_Intelligence.PNG)
+![Module_1_Introduction_to_Artificial_Intelligence](/Developing_AI_Applications_on_Azure/images/Module_1_Introduction_to_Artificial_Intelligence.png)
