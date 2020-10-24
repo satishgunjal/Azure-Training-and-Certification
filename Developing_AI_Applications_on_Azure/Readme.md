@@ -14,3 +14,16 @@ This module introduces machine learning tools available in Microsoft Azure. It t
 ![practice_tdsp](/Developing_AI_Applications_on_Azure/images/practice_tdsp.PNG)
 ![ml_studio](/Developing_AI_Applications_on_Azure/images/ml_studio.PNG)
 ![Module_2_Standardized_AI_Processes_and_Azure_Resources](/Developing_AI_Applications_on_Azure/images/Module_2_Standardized_AI_Processes_and_Azure_Resources.png)
+
+# Week 3: Standardized AI Processes and Azure Resources
+This module introduces you to Microsoft's pretrained and managed machine learning offered as REST API's in their suite of cognitive services. We specifically implement solutions using the computer vision api, the facial recognition api, and do sentiment analysis by calling the natural language service.
+## Learning Objectives
+* Describe the capabilities of Azure's Computer Vision Cognitive API
+* Summarize the components of Azure's Language Cognitive Service
+* Understand how to access Azure's Search Cognitive API
+* Understand and use Azure's Speech Cognitive Service
+* Employ Azure's Decision Cognitive API
+
+![Search_API](/Developing_AI_Applications_on_Azure/images/Search_API.PNG)
+![Translation](/Developing_AI_Applications_on_Azure/images/Translation.PNG)
+![Module_3_Azure_Cognitive_APIs](/Developing_AI_Applications_on_Azure/images/Module_3_Azure_Cognitive_APIs.png)
