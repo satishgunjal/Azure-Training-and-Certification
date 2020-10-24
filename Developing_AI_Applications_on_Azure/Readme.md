@@ -13,4 +13,4 @@ This module introduces machine learning tools available in Microsoft Azure. It t
 
 ![practice_tdsp](/Developing_AI_Applications_on_Azure/images/practice_tdsp.PNG)
 ![ml_studio](/Developing_AI_Applications_on_Azure/images/ml_studio.PNG)
-![Module_2_Standardized_AI_Processes_and_Azure_Resources](/Developing_AI_Applications_on_Azure/images/Module_2_Standardized_AI_Processes_and_Azure_Resources.PNG)
+![Module_2_Standardized_AI_Processes_and_Azure_Resources](/Developing_AI_Applications_on_Azure/images/Module_2_Standardized_AI_Processes_and_Azure_Resources.png)
