@@ -63,4 +63,4 @@ This module introduces you to the capabilities of the Azure Machine Learning Ser
 ![Practice_Azure_ML_Workspace](/Developing_AI_Applications_on_Azure/images/Practice_Azure_ML_Workspace.PNG)
 ![Practice_Train](/Developing_AI_Applications_on_Azure/images/Practice_Train.PNG)
 ![Train_Process_Step](/Developing_AI_Applications_on_Azure/images/Train_Process_Step.PNG)
-![Module_4_Azure_Machine_Learning_Service](/Developing_AI_Applications_on_Azure/images/Module_4_Azure_Machine_Learning_Service.PNG)
+![Module_4_Azure_Machine_Learning_Service](/Developing_AI_Applications_on_Azure/images/Module_4_Azure_Machine_Learning_Service.png)
