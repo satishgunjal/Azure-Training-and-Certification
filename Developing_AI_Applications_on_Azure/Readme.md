@@ -1,4 +1,5 @@
 # [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure/home/welcome)
+1[Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK](/Developing_AI_Applications_on_Azure/images/Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK.png)
 
 # Week 1: Introduction to Artificial Intelligence
 This module introduces Artificial Intelligence and Machine learning. Next, we talk about machine learning types and tasks. This leads into a discussion of machine learning algorithms. Finally we explore python as a popular language for machine learning solutions and share some scientific ecosystem packages which will help you implement machine learning. By the end of this unit you will be able to implement machine learning models in at least one of the available python machine learning libraries.
@@ -64,3 +65,19 @@ This module introduces you to the capabilities of the Azure Machine Learning Ser
 ![Practice_Train](/Developing_AI_Applications_on_Azure/images/Practice_Train.PNG)
 ![Train_Process_Step](/Developing_AI_Applications_on_Azure/images/Train_Process_Step.PNG)
 ![Module_4_Azure_Machine_Learning_Service](/Developing_AI_Applications_on_Azure/images/Module_4_Azure_Machine_Learning_Service.png)
+
+# Week 5: Azure Machine Learning Service: Model Management and Deployment
+This module covers how to connect to your workspace. Next, we discuss how the model registry works and how to register a trained model locally and from a workspace training run. In addition, we show you the steps to prepare a model for deployment including identifying dependencies, configuring a deployment target, building a container image. Finally, we deploy a trained model as a webservice and test it by sending JSON objects to the API.
+
+## Learning Objectives
+* Demonstrate how to connect to an existing workspace programmatically
+* Explain how to reference a model trained in the cloud
+* Describe the steps required to deploy a model in the cloud
+* Implement a scoring script
+* Understand how to deploy and test a model registered in Azure
+
+## Questions & Answers
+![Practice_Saving_Connections](/Developing_AI_Applications_on_Azure/images/Practice_Saving_Connections.PNG)
+![Practice_SDK_Container](/Developing_AI_Applications_on_Azure/images/Practice_SDK_Container.PNG)
+![Model_Registry](/Developing_AI_Applications_on_Azure/images/Model_Registry.PNG)
+![Module_5_Azure_Machine_Learning_Operations](/Developing_AI_Applications_on_Azure/images/Module_5_Azure_Machine_Learning_Operations.png)
