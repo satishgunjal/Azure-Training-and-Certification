@@ -1,5 +1,5 @@
 # [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure/home/welcome)
-1[Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK](/Developing_AI_Applications_on_Azure/images/Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK.png)
+![Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK](/Developing_AI_Applications_on_Azure/images/Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK.png)
 
 # Week 1: Introduction to Artificial Intelligence
 This module introduces Artificial Intelligence and Machine learning. Next, we talk about machine learning types and tasks. This leads into a discussion of machine learning algorithms. Finally we explore python as a popular language for machine learning solutions and share some scientific ecosystem packages which will help you implement machine learning. By the end of this unit you will be able to implement machine learning models in at least one of the available python machine learning libraries.
